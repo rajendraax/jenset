@@ -1,0 +1,17 @@
+body {
+    min-height: 2000px;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #780606;
+}
+#Projects {
+    background-color: #780606;
+    color: antiquewhite;
+}
+.row {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
